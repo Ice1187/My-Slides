@@ -11,3 +11,6 @@
 
 ## SECCON 2022 電脳会議
 - An Analysis on the Recent Malicious Documents and Their Techniques
+
+## NICS CTF種子教練分享會
+- CTF 賽制介紹與戰隊培育
