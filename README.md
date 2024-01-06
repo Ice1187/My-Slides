@@ -14,3 +14,6 @@
 
 ## NICS CTF種子教練分享會
 - CTF 賽制介紹與戰隊培育
+
+## CSCS 公民團體資安暨隱私交流計劃
+- [手機應用程式資安與隱私](https://docs.google.com/presentation/d/1lQDCE82drbaVtDYsz1vOg_AdsGILXRDuFCgGnBCA-ok/edit#slide=id.p)
