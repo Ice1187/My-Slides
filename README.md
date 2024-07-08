@@ -4,6 +4,7 @@
 - [Linux Basic](Linux%20Basic.pdf)
 - [Crypto 1](Crypto%201.pdf)
 - [Crypto 2](Crypto%202.pdf)
+- [Crypto 3](Crypto%203.pdf)
 
 ## 臺大 計算機安全 NTU Computer Security
 - [Windows Malware RE](Windows%20Malware%20RE.pdf)
