@@ -6,6 +6,9 @@
 - [Crypto 2](Crypto%202.pdf)
 - [Crypto 3](Crypto%203.pdf)
 
+## AIS3 2024
+- 惡意程式分析 to 威脅情資應用
+
 ## 臺大 計算機安全 NTU Computer Security
 - [Windows Malware RE](Windows%20Malware%20RE.pdf)
 
