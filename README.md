@@ -8,7 +8,7 @@
 
 ## AIS3 2024
 - 惡意程式分析 to 威脅情資應用
-- Web Log Analysis with Machine Learning
+- [Web Log Analysis with Machine Learning](https://github.com/Ice1187/Web-Log-Analysis-with-Machine-Learning)
 
 ## 臺大 計算機安全 NTU Computer Security
 - [Windows Malware RE](Windows%20Malware%20RE.pdf)
