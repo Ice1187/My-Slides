@@ -6,11 +6,14 @@
 - [Crypto 2](Crypto%202.pdf)
 - [Crypto 3](Crypto%203.pdf)
 
+## HITCON CMT 2024 - Lightning Talk
+- [台灣資安 / CTF 學習資源整理 - 自學教材徵求](https://docs.google.com/presentation/d/1UO22T4bmO4yF8SI42_wCQMnNPTFStZpGYRtPQoSKINM/edit?usp=sharing)
+
 ## AIS3 2024
 - 惡意程式分析 to 威脅情資應用
 - [Web Log Analysis with Machine Learning](https://github.com/Ice1187/Web-Log-Analysis-with-Machine-Learning)
 
-## 臺大 計算機安全 NTU Computer Security
+## 2023 臺大 計算機安全 NTU Computer Security
 - [Windows Malware RE](Windows%20Malware%20RE.pdf)
 
 ## CyberSec 2023 臺灣資安大會 
