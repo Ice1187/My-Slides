@@ -7,7 +7,7 @@
 - [Crypto 3](Crypto%203.pdf)
 
 ## HITCON CMT 2024 - Lightning Talk
-- [台灣資安 / CTF 學習資源整理 - 自學教材徵求](https://docs.google.com/presentation/d/1UO22T4bmO4yF8SI42_wCQMnNPTFStZpGYRtPQoSKINM/edit?usp=sharing)
+- [台灣資安 / CTF 學習資源整理 - 自學教材徵求](%E5%8F%B0%E7%81%A3%E8%B3%87%E5%AE%89%20_%20CTF%20%E5%AD%B8%E7%BF%92%E8%B3%87%E6%BA%90%E6%95%B4%E7%90%86%20-%20Lightning%20Talk.pdf)
 
 ## AIS3 2024
 - 惡意程式分析 to 威脅情資應用
