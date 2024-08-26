@@ -1,10 +1,14 @@
 # My-Slides
 
+## CTF
 - [Introduction to CTF](Introduction%20to%20CTF.pdf)
 - [Linux Basic](Linux%20Basic.pdf)
 - [Crypto 1](Crypto%201.pdf)
 - [Crypto 2](Crypto%202.pdf)
 - [Crypto 3](Crypto%203.pdf)
+
+## NTU NSLab Workshop 2024
+- [經驗分享：移地研究、社群參與、實習心得](My_Life_Beyond_NSLab%20%28%E7%A7%BB%E5%9C%B0%E7%A0%94%E7%A9%B6%E3%80%81%E7%A4%BE%E7%BE%A4%E5%8F%83%E8%88%87%E3%80%81%E5%AF%A6%E7%BF%92%E5%BF%83%E5%BE%97%EF%BC%89.pdf)
 
 ## HITCON CMT 2024 - Lightning Talk
 - [台灣資安 / CTF 學習資源整理 - 自學教材徵求](%E5%8F%B0%E7%81%A3%E8%B3%87%E5%AE%89%20_%20CTF%20%E5%AD%B8%E7%BF%92%E8%B3%87%E6%BA%90%E6%95%B4%E7%90%86%20-%20Lightning%20Talk.pdf)
