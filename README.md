@@ -2,6 +2,9 @@
 
 ## 2025
 
+### 東吳大學 新型態資安概論
+- 惡意程式
+
 ### 奧義社群論壇 - CyCraft C++ 讀書會
 - [Reverse C++ like a boss, make LLM reverse for you](20250322%20Reverse%20C%2B%2B%20like%20a%20boss%2C%20make%20LLM%20reverse%20for%20you.pdf)
 
