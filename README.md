@@ -6,7 +6,7 @@
 - [Reverse C++ like a boss, make LLM reverse for you](20250322%20Reverse%20C%2B%2B%20like%20a%20boss%2C%20make%20LLM%20reverse%20for%20you.pdf)
 
 ### SCIST 南 15 校聯合寒訓
-- 從 0 開始的藍隊研究員新手指南
+- [從 0 開始的藍隊研究員新手指南](250125_SCIST南15校聯合寒訓.pdf)
 
 ## 2024
 ### NTU NSLab Workshop
