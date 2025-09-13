@@ -2,6 +2,10 @@
 
 ## 2025
 
+### 國家資通安全研究院 - CTF 資安種子培訓交流會
+- CTF 入門先備知識
+- CTF 賽事協作工具介紹 & 實戰模擬演練
+
 ### AIS3
 - 進擊的惡意程式：鑑識與分類
 
@@ -15,7 +19,7 @@
 - [從 0 開始的藍隊研究員新手指南](250125_SCIST南15校聯合寒訓.pdf)
 
 ## 2024
-### NTU NSLab Workshop
+### 臺大資工 NSLab Workshop
 - [經驗分享：移地研究、社群參與、實習心得](My_Life_Beyond_NSLab%20%28%E7%A7%BB%E5%9C%B0%E7%A0%94%E7%A9%B6%E3%80%81%E7%A4%BE%E7%BE%A4%E5%8F%83%E8%88%87%E3%80%81%E5%AF%A6%E7%BF%92%E5%BF%83%E5%BE%97%EF%BC%89.pdf)
 
 ### HITCON CMT - Lightning Talk
@@ -39,7 +43,7 @@
 ### CyberSec 臺灣資安大會 
 - [近期惡意文件利用手法與其趨勢分析](https://cyber.ithome.com.tw/2023/session-page/1898)
 
-### NICS CTF種子教練分享會
+### 國家資通安全研究院 - CTF 種子教練分享會
 - CTF 賽制介紹與戰隊培育
 
 ### CSCS 公民團體資安暨隱私交流計劃
