@@ -3,8 +3,8 @@
 ## 2025
 
 ### 國家資通安全研究院 - CTF 資安種子培訓交流會
-- CTF 入門先備知識
-- CTF 賽事協作工具介紹 & 實戰模擬演練
+- [CTF 入門先備知識](https://docs.google.com/presentation/d/1F5WpeASJSD0KUmve4x-0AxHDZCuzfGa7MPbencFxc1k/edit?usp=sharing)
+- [CTF 賽事協作工具介紹 & 實戰模擬演練](https://docs.google.com/presentation/d/1oaLOSupBB7VX9jEF1Tra5lU9U26CHEKXHpagpCVtkT8/edit?usp=sharing)
 
 ### AIS3
 - 進擊的惡意程式：鑑識與分類
