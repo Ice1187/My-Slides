@@ -1,5 +1,10 @@
 # My-Slides
 
+## 2026 
+
+### SCIST x SCAICT 2026 聯合寒訓
+- 從 Hello World 踏入資安研究
+
 ## 2025
 
 ### 臺師大 高等資安攻防演練
