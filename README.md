@@ -3,7 +3,7 @@
 ## 2026 
 
 ### SCIST x SCAICT 2026 聯合寒訓
-- 從 Hello World 踏入資安研究
+- [從 Hello World 踏入資安研究](260206%20%E5%BE%9E%20Hello%20World%20%E8%B8%8F%E5%85%A5%E8%B3%87%E5%AE%89%E7%A0%94%E7%A9%B6.pdf)
 
 ## 2025
 
