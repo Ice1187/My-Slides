@@ -2,6 +2,12 @@
 
 ## 2026 
 
+### CraftCon
+- [AI 安全的雙面戰場：從評估模型安全到突破架構邊界](https://www.cycraft.com/news/craftcon2026-20260511)
+
+### CyberSec 臺灣資安大會
+- [Hacking the Brain of AI](https://cybersec.ithome.com.tw/2026/session/4438)
+
 ### 新竹女中資訊研究社 社課
 - [資安研究 101](260408%20資安研究%20101.pdf)
 - [二年內靠資安特選 / 推甄上大學：從申請大學的角度入門資訊安全](260408%20二年內靠資安特選或推甄上大學-從申請大學的角度入門資訊安全.pdf)
@@ -63,4 +69,4 @@
 
 ## 2022
 ### SECCON 2022 電脳会議
-- An Analysis on the Recent Malicious Documents and Their Techniques
+- [An Analysis on the Recent Malicious Documents and Their Techniques](https://www.seccon.jp/2022/ep230211.html)
