@@ -2,6 +2,9 @@
 
 ## 2026 
 
+### 臺大 資訊安全原理與實務 Principles and Practice of Cybersecurity
+- [從漏洞開始的一切：資安藍隊地圖與 AI 無法取代的人](260921%20資訊安全原理與實務-藍隊技術.pdf)
+
 ### CraftCon
 - [AI 安全的雙面戰場：從評估模型安全到突破架構邊界](https://www.cycraft.com/news/craftcon2026-20260511)
 
